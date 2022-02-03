@@ -180,4 +180,4 @@ In the coming weeks, we are looking to do a number of things such as
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- We applieed for a Harmony Grant
+- We applied for a Harmony Grant
